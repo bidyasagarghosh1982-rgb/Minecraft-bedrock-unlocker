@@ -5,7 +5,8 @@ A single Windows batch file that installs, checks and repairs **Minecraft for Wi
 sign-in and **online multiplayer actually work**.
 
 ```
-Minecraft-Bedrock-Setup.bat      <- the whole tool, one file, no install
+release/Minecraft-Bedrock-Setup.bat   <- the whole tool, one file, nothing to install
+release/README.txt                    <- download notes + SHA-256
 ```
 
 ---
@@ -35,7 +36,7 @@ which piece of your PC is breaking online play when it doesn't.
 
 ## Usage
 
-1. Download `Minecraft-Bedrock-Setup.bat`.
+1. Download [`release/Minecraft-Bedrock-Setup.bat`](release/Minecraft-Bedrock-Setup.bat).
 2. Right-click → **Run as administrator** (or just double-click; the tool offers to elevate).
 3. Pick a number from the menu.
 
